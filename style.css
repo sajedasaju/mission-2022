@@ -134,7 +134,7 @@ section{
 
  }
 .develop-second-div-width{
-    width: 70%;
+    width: 60%;
     margin-top: 10px;
     
 
@@ -146,7 +146,7 @@ section{
  }
  .develop-second-div-width p{
   
-    padding-right: 30rem;
+    padding-right: 0rem;
     text-align: justify;
     margin-bottom: 26px;
 
@@ -156,5 +156,39 @@ section{
     background-repeat: no-repeat;
     background-size: contain;
     background-position: left;
+    
+ }
+
+ .community .community-1st-width{
+     width: 60%;
+     padding-right: 10px;
+ }
+ .community-2nd-width{
+     width: 40%;
+     
+ }
+ .community-1st-width h2{
+    font-weight: bolder;
+    margin-bottom: 10px;
+
+ }
+ .community-1st-width p{
+
+    text-align: justify;
+    margin-bottom: 26px;
+
+ }
+ .community img{
+    width: 70%;
+    height: 100%;
+    margin-left: 12rem;
+
+}
+.community{
+    background-image: url(./images/shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right bottom;
+
     
  }
