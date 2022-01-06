@@ -193,10 +193,10 @@ section{
     
  }
  .contact{
-    background-image: url(./images/shapes/exp-bg.png);
-    background-repeat: no-repeat;
+    background-image: url(./images/shapes/exp-bg.png), url(./images/shapes/exp-bg.png);
+    background-repeat: no-repeat,no-repeat;
     /* background-size: contain; */
-    background-position: left 80px;
+    background-position: left 80px , 99% bottom;
 
  }
  .contact h2{
