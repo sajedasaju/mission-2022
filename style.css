@@ -11,8 +11,8 @@ h2{
 }
 section{
     margin-top: 4rem;
-    margin-left:2rem ;
-    margin-right: 2rem;
+    margin-left:3rem ;
+    margin-right: 3rem;
    
 }
 .span-color{
@@ -30,6 +30,9 @@ section{
 .half-width{
     width: 50%;
     padding-left: 2%;
+}
+.width-for-mission{
+    width: 32%;
 }
 .half-width img{
     width: 70%;
@@ -68,4 +71,50 @@ section{
     background-repeat: no-repeat;
     background-position-y:right;  
 
+}
+
+.my-mission-item img{
+    width: 50%;
+
+}
+
+.mission-color{
+    background-color: rgb(248, 226, 229);
+}
+.vission-color{
+    background-color: rgb(233, 253, 255);
+}
+.goals-color{
+    background-color: rgb(230, 225, 225);
+}
+
+.my-mission-item{
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 1%;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 16px;
+    box-shadow: 4px 8px 33px -10px rgba(124, 117, 117, 0.73);
+
+}
+.my-mission h2{
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgb(56, 56, 97);
+
+}
+.my-mission h2 span{
+    color: rgb(236, 151, 39);
+
+}
+.my-mission-item h3{
+    margin-top: 20px;
+   
+}
+.my-mission-item p{
+    margin-bottom: 20px;
+   
 }
