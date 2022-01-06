@@ -320,3 +320,35 @@ section{
 
 
 }
+footer{
+    background-color: black;
+    text-align: center;
+}
+
+footer h2{
+    padding-top: 15px;
+    margin-bottom: 0;
+    color: white;
+    font-weight: 900;
+    font-size: 52px;
+    font-family: 'Moon Dance', cursive;
+}
+footer h2 span{
+    color: rgb(151, 22, 22);
+}
+footer p{
+    padding-top: 0;
+    color: white;
+
+}
+footer h4{
+    color: white;
+    padding-bottom: 30px;
+    font-family: 'Moon Dance', cursive;
+
+}
+footer h4 span{
+    color: rgb(151, 22, 22);
+    
+
+}
