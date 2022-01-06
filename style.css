@@ -15,6 +15,10 @@ section{
     margin-right: 3rem;
    
 }
+.margin_all{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
 .span-color{
     font-family: 'Nunito', sans-serif;
     font-size: 50px;
@@ -118,3 +122,39 @@ section{
     margin-bottom: 20px;
    
 }
+
+.develop img{
+    width: 60%;
+    height: 100%;
+    margin-left: 5%;
+    margin-right: 0;
+}
+.develop-first-div-width{
+    width: 40%;
+
+ }
+.develop-second-div-width{
+    width: 70%;
+    margin-top: 10px;
+    
+
+ }
+.develop-second-div-width h2{
+    font-weight: bolder;
+    margin-bottom: 10px;
+
+ }
+ .develop-second-div-width p{
+  
+    padding-right: 30rem;
+    text-align: justify;
+    margin-bottom: 26px;
+
+ }
+ .develop{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    
+ }
